@@ -1,0 +1,13 @@
+langchain
+langchain_community
+langchain-google-genai
+python-dotenv
+chromadb
+pydantic
+langchain-tavily
+dotenv
+fastapi
+langgraph
+python-multipart
+langgraph-checkpoint-sqlite
+xai
