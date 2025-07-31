@@ -1,0 +1,21 @@
+"""Sure! Here's a clean, symbol-free explanation about lung cancer in plain text:
+
+---
+
+Lung cancer is a disease that begins in the lungs, most often in the lining of the airways. It is one of the most common types of cancer and a leading cause of cancer-related death worldwide. This illness occurs when abnormal cells grow uncontrollably in lung tissue and can spread to other parts of the body.
+
+The main cause of lung cancer is smoking. Cigarette smoke contains chemicals that damage cells in the lungs, which can lead to cancer. Other risk factors include breathing in substances like asbestos, radon gas, and air pollution. People with a family history of lung cancer may also have a higher risk.
+
+There are two main types of lung cancer. The first is non-small cell lung cancer, which makes up about eighty-five percent of cases. The second is small cell lung cancer, which is more aggressive and grows quickly. Each type requires different treatments and has different outcomes.
+
+Symptoms of lung cancer may not show up right away. As the disease progresses, common signs include a cough that does not go away, chest pain, shortness of breath, coughing up blood, feeling tired, and losing weight without trying. These symptoms can also be caused by other conditions, so seeing a doctor is important.
+
+To find lung cancer, doctors use imaging tools like X-rays and CT scans. A biopsy, which is a sample of lung tissue, may be taken to confirm the diagnosis. Doctors also study the cancer cells to see if they contain special changes that could help choose the best treatment.
+
+Treatment for lung cancer depends on how advanced it is and what type it is. Common treatments include surgery to remove the cancer, radiation to kill cancer cells, and chemotherapy to stop cancer from growing. New options like targeted therapy and immunotherapy are helping many patients live longer and feel better.
+
+Living with lung cancer can be hard, both physically and emotionally. Support from friends, family, and medical professionals can make a big difference. Healthy habits like not smoking, eating well, and staying active may help lower the risk of lung cancer and improve recovery for those who have it.
+
+---
+
+Would you like this shortened for mobile reading or turned into bullet points for quick scanning?"""
